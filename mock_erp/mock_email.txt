@@ -1,0 +1,5 @@
+From: acme_foods@example.com
+Subject: Order for Tuesday
+
+Need 10 cases of bananas, no green ones.
+Also 5 bags of ice and 20lbs of potatoes.

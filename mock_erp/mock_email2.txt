@@ -1,0 +1,10 @@
+From: restaurant@example.com
+Subject: Urgent order
+
+Hey, need for tomorrow:
+- 20cs of russet potatoes
+- 5 dozen eggs (extra large)
+- 30lbs chicken breast, cut into strips
+- 2 cases of #10 cans tomatoes
+
+Thanks!
