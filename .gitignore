@@ -1,3 +1,5 @@
 venv/
 mock_erp/__pycache__
 .env
+token.pickle
+*.json
